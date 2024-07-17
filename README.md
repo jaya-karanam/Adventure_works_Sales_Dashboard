@@ -26,3 +26,4 @@ I.  For excel, under Power pivot, millions of data and beyond can be loaded whil
 II. If you want AI to create your pivot table in excel, you can click on Recommended PivotTables under Insert ribbon.<br/>
 III. INDEX MATCH lookup function is much better than VLOOKUP as it is more powerful to look in any direction and find more than one match unlike VLOOKUP. This makes it more flexible and convenient.<br/>
  
+<img width="330" height = "400" alt ="CGH" src = "Screenshot_DB-1%20(1).png">
